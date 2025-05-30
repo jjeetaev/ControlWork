@@ -107,3 +107,4 @@
 # print(rect.area())  # Вывод: 50
 # print(circle.area())  # Вывод: ~153.94
 #
+#
